@@ -1,8 +1,6 @@
 /********************/
 #include <stdio.h>
 
-// 
-
 void useLocal();
 void useStaticLocal();
 void useGlobal();
